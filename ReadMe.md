@@ -71,8 +71,8 @@
 <!-- > GitHub Activity Graph -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/Sav1030/Sav1030"><img alt="atosinu's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Sav1030&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- <a href="https://github.com/Sav1030/Sav1030"><img alt="atosinu's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Sav1030&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 <br />
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
@@ -95,10 +95,8 @@
 <h2 align="center"> Thanks for visiting my profile. </h2>
 
 <p align="right">
-  <a href="https://github.com/atosinu?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Sav1030?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Sav1030"/></a>
-  <a href="https://github.com/atosinu?tab=followers">
+  <a href="https://github.com/Sav1030?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Sav1030?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/atosinu">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Sav1030&style=for-the-badge"/></a>
 </p>
