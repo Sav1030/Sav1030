@@ -90,7 +90,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Savage1030" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://brilliantdev.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/line.png"  width="50" /></a>
+  <a href="https://lin.ee/ynLnV6z" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/line-me.png"  width="50" /></a>
 </p>
 <h2 align="center"> Thanks for visiting my profile. </h2>
 
