@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, I 'm WangPing
+  Hello,Nice to meet you!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align="center">
@@ -76,7 +76,7 @@
 <br />
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
-</div> 
+<!-- </div> 
   <h2 align="center">
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
       How to reach me
@@ -91,7 +91,7 @@
   <a href="https://t.me/Savage1030" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://lin.ee/ynLnV6z" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/line-me.png"  width="50" /></a>
-</p>
+</p> -->
 <h2 align="center"> Thanks for visiting my profile. </h2>
 
 <p align="right">
